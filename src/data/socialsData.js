@@ -1,10 +1,10 @@
 export const socialsData = {
-    github: 'https://github.com/sandeepmaddheshiya',
-    facebook: 'https://www.facebook.com/profile.php?id=100018820846914',
-    linkedIn: 'https://www.linkedin.com/in/sandeepmaddheshiya/',
-    instagram: 'https://www.instagram.com/itz___s_a_n_d_y___/',
-    codepen: 'https://codepen.io/Sandeep-Maddheshiya',
-    twitter: 'https://twitter.com/supermansandy1m',
+    github: 'https://github.com/ambarmishraa',
+    facebook: '',
+    linkedIn: 'https://www.linkedin.com/in/er-ambar-mishra-5940922b4/',
+    instagram: 'https://www.instagram.com/ambar_mishra__/',
+    codepen: '',
+    twitter: '',
     leetcode: '',
     gfg: '',
     hackerrank: '',
@@ -13,5 +13,5 @@ export const socialsData = {
     medium: '',
     stackOverflow: '',
     gitlab: '',
-    youtube: ''
+    youtube: 'https://www.youtube.com/@DebugWithToxic'
 }

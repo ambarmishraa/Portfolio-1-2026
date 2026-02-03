@@ -1,24 +1,17 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Mobiloitte',
-        jobtitle: 'Software Developer Intern',
-        startYear: 'Feb',
-        endYear: 'April 2024'
+        company: 'Keyideas Infotech Private Limited',
+        jobtitle: 'Software Developer Trainee',
+        startYear: 'Aug 2024',
+        endYear: 'Jan 2025',
     },
     {
         id: 2,
-        company: 'Topperworld',
-        jobtitle: 'Full Stack Developer Intern',
-        startYear: 'Aug 2023',
-        endYear: 'Jan 2024'
-    },
-    {
-        id: 3,
-        company: 'TechnoHacks EduTech',
-        jobtitle: 'Java Developer Intern',
-        startYear: 'Sept',
-        endYear: 'Oct 2023'
+        company: 'Prayagraj Municipal Corporation',
+        jobtitle: 'IT Engineer Intern',
+        startYear: 'Jun 2023',
+        endYear: 'Aug 2023'
     },
     
     
